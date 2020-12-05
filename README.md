@@ -22,8 +22,6 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 
 效果预览地址:
-https://github.com/puffing/vuedraggable-demo
+https://puffing.github.io/vuedraggable-demo/
