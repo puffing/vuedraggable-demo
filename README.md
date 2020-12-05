@@ -17,11 +17,5 @@ yarn serve
 yarn build
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-
 效果预览地址:
 https://puffing.github.io/vuedraggable-demo/
